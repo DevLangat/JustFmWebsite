@@ -303,7 +303,7 @@
 
         <div class="text-center">
           <h3>Enquiry</h3>
-          <p> Do you need more information about any of our products or services?
+          <p> Do you need more information about any of our products or services? <br />
             Leave an enquiry below and we will get back to you as soon as we can.
           </p>
           <a class="cta-btn" href="#">Enquiry</a>
@@ -523,7 +523,7 @@
 
         <div class="section-title">
           <h2>Pricing</h2>
-          <p>Our Competing Prices</p>
+          <p>Our Prices</p>
         </div>
 
         <div class="row align-items-center">
@@ -590,11 +590,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+            <h4>Where is your Radio station located?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              Our headoffices are located in Kericho County, Kenya. Please check the map below for the precise location to our offices.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -602,11 +602,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h4>
+            <h4>What are your official working hours?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim.
+              Our offices are open between 8am-6pm weekdays and holidays and 9am-12pm on Saturday. We remain closed on Sundays.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
