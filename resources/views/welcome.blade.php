@@ -540,7 +540,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Audrey Chemutai</h4>
-                  <span>Field Reporter</span>
+                  <span>Reporter</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
