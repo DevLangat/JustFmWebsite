@@ -600,16 +600,16 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Our Prices</p>
+          <h2>Packages</h2>
+          <p>Our Packages</p>
         </div>
 
         <div class="row align-items-center">
 
           <div class="col-lg-4">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Free</h3>
-              <h4>$0<span>per month</span></h4>
+              <h3>Basic</h3>
+              <h4>Kshs. 1,500<span>per day</span></h4>
               <ul>
                 <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
                 <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -623,8 +623,8 @@
 
           <div class="col-lg-4">
             <div class="box featured" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Business</h3>
-              <h4>$29<span>per month</span></h4>
+              <h3>Standard</h3>
+              <h4>Kshs. 5,000<span>per day</span></h4>
               <ul>
                 <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
                 <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -638,8 +638,8 @@
 
           <div class="col-lg-4">
             <div class="box" data-aos="zoom-in" data-aos-delay="100">
-              <h3>Developer</h3>
-              <h4>$49<span>per month</span></h4>
+              <h3>Professional</h3>
+              <h4>Kshs. 8,000<span>per day</span></h4>
               <ul>
                 <li><i class="bx bx-check"></i> Quam adipiscing vitae proin</li>
                 <li><i class="bx bx-check"></i> Nec feugiat nisl pretium</li>
@@ -705,11 +705,11 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h4>
+            <h4>What is the coverage of your radio station?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Aperiam itaque sit optio et deleniti eos nihil quidem cumque. Voluptas dolorum accusantium sunt sit enim. Provident consequuntur quam aut reiciendis qui rerum dolorem sit odio. Repellat assumenda soluta sunt pariatur error doloribus fuga.
+              Just FM covers Kericho, BometNandi, Kapsabet, Nyamira, Nakuru, Kisii, Kisumu and Uasin Gishu counties and their Environs
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -717,11 +717,12 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="500">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h4>
+            <h4>How would you describe Just FM's listenership?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+            We target all age groups from young to old. Christians and non-christians.
+            Currently, we boast a listenership of over 5 Million listeners from different walks of life, age and religion.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
