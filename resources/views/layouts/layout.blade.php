@@ -53,8 +53,9 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#">Livestream</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto " href="#portfolio">Programmes</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>        
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
@@ -131,7 +132,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="footer-info">
               <h3>Just FM Radio</h3>
-              <p class="pb-3"><em>Qui repudiandae et eum dolores alias sed ea. Qui suscipit veniam excepturi quod.</em></p>
+              <p class="pb-3"><em>Your home of faith</em></p>
               <p>
                 Nenyon Bld, John Kerich Rd <br>
                 Kericho, Kenya<br><br>
@@ -173,7 +174,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Be the first to get updates and news straight from our broadcasting house! Leave your mail below to be added to our mailing list</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>

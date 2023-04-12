@@ -26,8 +26,10 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              <h3>Mission:</h3>
+              <h4>Mission:</h4>
               To preach the gospel through digital systems to reach the world and support the needy and government to attain vision 2030.
+              <h4>Vision:</h4>
+              To be the leading gospel broadcaster in Kenya and the world.
             </p>
             <a href="#" class="btn-learn-more">Learn More</a>
           </div>
@@ -318,17 +320,17 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Check our Portfolio</p>
+          <h2>Programmes</h2>
+          <p>Check our Programmes</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Podcasts</li>
+              <li data-filter=".filter-card">Liveshows</li>
+              <li data-filter=".filter-web">Blog</li>
             </ul>
           </div>
         </div>
@@ -690,11 +692,12 @@
         <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
           <div class="col-lg-5">
             <i class="bx bx-help-circle"></i>
-            <h4>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?</h4>
+            <h4>Do you offer marketing services?</h4>
           </div>
           <div class="col-lg-7">
             <p>
-              Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus.
+              Yes. We offer marketing services and have different marketing packages tailored to suit your business/personal need.
+              Leave an enquiry and our marketing team will get in touch as soon as possible.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
@@ -744,7 +747,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>Nenyon Building, John Kerich Rd, Kericho, Kenya</p>
+                  <p>Nenyon Building, <em>1st Flr Left Wing</em>, John Kerich Rd, Kericho, Kenya</p>
                 </div>
               </div>
               <div class="col-md-6">
